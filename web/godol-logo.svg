@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 140" role="img" aria-labelledby="title">
+  <title id="title">GODOL Construction Equipment</title>
+  <defs>
+    <linearGradient id="steel" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#20314b"/>
+      <stop offset="1" stop-color="#0e1829"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="416" height="136" rx="20" fill="url(#steel)" stroke="#41516b" stroke-width="2"/>
+  <path d="M69 22 111 46v48l-42 24-42-24V46z" fill="#ffb34d"/>
+  <path d="M69 34 100 52v12H87v-5L69 49 51 59v22l18 10 18-10v-6H70V63h30v25l-31 18-31-18V52z" fill="#132239"/>
+  <path d="M126 38v64" stroke="#536379" stroke-width="2"/>
+  <g fill="#f8fafc" transform="translate(149 38)">
+    <path d="M7 0h35v11H13v32h17V32H20V22h22v25l-7 7H7l-7-7V7z"/>
+    <path d="M59 0h28l7 7v40l-7 7H59l-7-7V7zm6 11v32h16V11z" fill-rule="evenodd"/>
+    <path d="M104 0h30l12 12v30l-12 12h-30zm13 11v32h11l5-5V16l-5-5z" fill-rule="evenodd"/>
+    <path d="M163 0h28l7 7v40l-7 7h-28l-7-7V7zm6 11v32h16V11z" fill-rule="evenodd"/>
+    <path d="M208 0h13v43h27v11h-40z"/>
+  </g>
+  <text x="150" y="112" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#ffbe68">CONSTRUCTION EQUIPMENT</text>
+</svg>
